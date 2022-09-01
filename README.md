@@ -1,4 +1,4 @@
-# usefull-command-linux-windows-dev
+# useful-command-linux-windows-dev
 
 ## NPM
 - npm init
