@@ -10,5 +10,7 @@
 - npm uninstall express
 - npm ls
 - npm -g ls
+- npm audit (Running this command will scan the package.json file and submit the list of dependencies to the default NPM registry requesting a report on any known vulnerabilities in them.)
+- npm audit fix (Update any vulnerable packages with the newest available version that hasn’t had the vulnerability reported in it.)
 ## SSH
 - ssh -R 80:localhost:8080 localhost.run (Expose my service in port 8080 to the internet in port 80) [[localhost.run](http://localhost.run/)]
