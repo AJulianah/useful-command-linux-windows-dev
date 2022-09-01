@@ -11,4 +11,4 @@
 - npm ls
 - npm -g ls
 ## SSH
-- ssh -R 80:localhost:8080 localhost.run (Expose my service in port 8080 to the internet in port 80)[Link text Here](http://localhost.run/)
+- ssh -R 80:localhost:8080 localhost.run (Expose my service in port 8080 to the internet in port 80) [localhost.run](http://localhost.run/)
