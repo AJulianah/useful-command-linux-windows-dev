@@ -15,7 +15,7 @@
 ## SSH
 - `ssh -R 80:localhost:8080 localhost.run` (Expose my service in port 8080 to the internet in port 80) [[localhost.run](http://localhost.run/)]
 
-## Outils pour windows
+## Tools for windows
 
 - [chocolatey](https://lecrabeinfo.net/chocolatey-gestionnaire-paquets-windows.html) is a package manager for windows like apt on linux 
 `choco search --by-id-only firefox`
