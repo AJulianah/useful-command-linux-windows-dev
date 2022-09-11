@@ -14,3 +14,8 @@
 - npm audit fix (Update any vulnerable packages with the newest available version that hasn’t had the vulnerability reported in it.)
 ## SSH
 - ssh -R 80:localhost:8080 localhost.run (Expose my service in port 8080 to the internet in port 80) [[localhost.run](http://localhost.run/)]
+
+## Outils pour windows
+
+- chocolatey is a package manager for windows like apt or pacman [chocolatey](https://lecrabeinfo.net/chocolatey-gestionnaire-paquets-windows.html)
+`choco search --by-id-only firefox`
