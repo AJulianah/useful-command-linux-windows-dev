@@ -17,5 +17,5 @@
 
 ## Outils pour windows
 
-- chocolatey is a package manager for windows like apt or pacman [chocolatey](https://lecrabeinfo.net/chocolatey-gestionnaire-paquets-windows.html)
+- [chocolatey](https://lecrabeinfo.net/chocolatey-gestionnaire-paquets-windows.html) is a package manager for windows like apt on linux 
 `choco search --by-id-only firefox`
