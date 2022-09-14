@@ -19,3 +19,7 @@
 
 - [chocolatey](https://lecrabeinfo.net/chocolatey-gestionnaire-paquets-windows.html) is a package manager for windows like apt on linux 
 `choco search --by-id-only firefox`
+
+## SQL
+- `SELECT @@GLOBAL.sql_mode;` Current global or session sql_mode setting, select its value
+- `SELECT @@SESSION.sql_mode;`
