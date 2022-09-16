@@ -24,3 +24,6 @@
 - `SELECT @@GLOBAL.sql_mode;` Current global or session sql_mode setting, select its value
 - `SELECT @@SESSION.sql_mode;`
 - Deactivate strict mode: `sudo mysql -u root -p -e "SET GLOBAL sql_mode = 'NO_ENGINE_SUBSTITUTION';"`
+
+## YARN
+- Fixing Command "encore" not found: `npm install --global yarn` `yarn add --dev @symfony/webpack-encore`
