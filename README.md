@@ -26,4 +26,4 @@
 - Deactivate strict mode: `sudo mysql -u root -p -e "SET GLOBAL sql_mode = 'NO_ENGINE_SUBSTITUTION';"`
 
 ## YARN
-- Fixing Command "encore" not found: `npm install --global yarn` `yarn add --dev @symfony/webpack-encore`
+- Fixing Command "encore" not found when launchin `yarn encore dev`:= `npm install --global yarn` `yarn add --dev @symfony/webpack-encore`
