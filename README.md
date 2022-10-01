@@ -27,8 +27,8 @@
 
 ## YARN
 - Fixing Command "encore" not found when launching `yarn encore dev` <br /> `npm install --global yarn` 
-- Installing Encore in Symfony Applications
+#### Installing Encore in Symfony Applications
 1. `composer require symfony/webpack-encore-bundle` <br />
 2. `yarn install` or `npm install`
-- Installing Encore in non Symfony Applications
+#### Installing Encore in non Symfony Applications <br />
 `yarn add --dev @symfony/webpack-encore` or `npm install @symfony/webpack-encore --save-dev`
