@@ -26,9 +26,9 @@
 - Deactivate strict mode: `sudo mysql -u root -p -e "SET GLOBAL sql_mode = 'NO_ENGINE_SUBSTITUTION';"`
 
 ## YARN
-- Fixing Command "encore" not found when launching `yarn encore dev`:= `npm install --global yarn` 
+- Fixing Command "encore" not found when launching `yarn encore dev` <br /> `npm install --global yarn` 
 - Installing Encore in Symfony Applications
-`composer require symfony/webpack-encore-bundle` 
-`yarn install` or `npm install`
+1. `composer require symfony/webpack-encore-bundle` <br />
+2. `yarn install` or `npm install`
 - Installing Encore in non Symfony Applications
 `yarn add --dev @symfony/webpack-encore` or `npm install @symfony/webpack-encore --save-dev`
